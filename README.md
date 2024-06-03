@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+Click here for the [Demo](https://thippesh57.github.io/react-weather/) of the website
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
